@@ -2,6 +2,28 @@
 
 This repository is used to practice a standard Git branching and collaboration workflow, covering branch creation, pull requests, code reviews, and merging.
 
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/alanvarghese16/scrum-35-git-practice.git
+cd scrum-35-git-practice
+```
+
+### 2. Switch to the Default Branch
+
+```bash
+git switch master
+git pull origin master
+```
+
+### 3. Create a Feature Branch
+
+```bash
+git switch -c feature/short-description
+```
+
 ## Git Workflow
 
 ### 1. Branch Creation
