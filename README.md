@@ -21,7 +21,7 @@ git pull origin master
 ### 3. Create a Feature Branch
 
 ```bash
-git switch -c feature/short-description
+git switch -c feature/issue-2-getting-started
 ```
 
 ## Git Workflow
