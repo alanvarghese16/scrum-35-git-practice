@@ -11,10 +11,9 @@ git clone https://github.com/alanvarghese16/scrum-35-git-practice.git
 cd scrum-35-git-practice
 ```
 
-### 2. Switch to the Default Branch
+### 2. If You Already Have the Repo
 
 ```bash
-git switch master
 git pull origin master
 ```
 
